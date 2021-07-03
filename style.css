@@ -1,0 +1,40 @@
+.header{
+    font-size: 80px;
+    color:darkcyan;
+    font-family: Broadway;
+}
+body{background-color:#AEC3E3;}
+.myImg{
+    margin:40px;
+    border-radius: 30px;
+    border-color: darkcyan;
+    background-color: white;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+    border-style:ridge;
+}
+.myInfo{
+    margin-top: 50px;
+}
+img{
+    margin:40px;
+    border-style:solid;
+    border-color:#AEC3E3;
+    border-radius: 600px;
+}
+
+.Games{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+    border-style:ridge;
+    flex-basis: 100%;
+}
+
+.eachGame{
+    margin-left: 10px;
+    flex-basis: 25%;
+}
+
+h1{color:darkcyan}
